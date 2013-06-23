@@ -1,0 +1,13 @@
+﻿@model dynamic
+
+@{
+    ViewBag.Title = "title";
+}
+
+<h2>Palestrantes @ViewBag.Nome e @ViewBag.Idade</h2>
+@if (ViewBag.Mensagem != null)
+{
+    <p>
+    @ViewBag.Mensagem 
+    </p>
+}

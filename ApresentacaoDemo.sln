@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo1", "Demo1\Demo1.csproj", "{FDFB3FF6-61BB-4F0C-97F9-EE600959F07D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mobile", "Mobile\Mobile.csproj", "{6E6BA3C2-9F01-4082-8CB9-9683CC64DC4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo2", "Demo2\Demo2.csproj", "{B5045E69-957D-4AE5-B5AD-273D7AA1D4CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDFB3FF6-61BB-4F0C-97F9-EE600959F07D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDFB3FF6-61BB-4F0C-97F9-EE600959F07D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDFB3FF6-61BB-4F0C-97F9-EE600959F07D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDFB3FF6-61BB-4F0C-97F9-EE600959F07D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E6BA3C2-9F01-4082-8CB9-9683CC64DC4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E6BA3C2-9F01-4082-8CB9-9683CC64DC4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E6BA3C2-9F01-4082-8CB9-9683CC64DC4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E6BA3C2-9F01-4082-8CB9-9683CC64DC4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5045E69-957D-4AE5-B5AD-273D7AA1D4CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5045E69-957D-4AE5-B5AD-273D7AA1D4CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5045E69-957D-4AE5-B5AD-273D7AA1D4CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5045E69-957D-4AE5-B5AD-273D7AA1D4CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
